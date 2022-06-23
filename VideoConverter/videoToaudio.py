@@ -1,3 +1,4 @@
+# IMPORTANTE FAZER O PIP INSTALL MOVIEPY ANTES
 import moviepy.editor
 
 # Carrega o arquivo/URL do video
